@@ -1,3 +1,4 @@
+package Aulas01;
 /**
  * <h1>Calculadora</h1>
  * A classe Calculadora é responsável por realizar operações matemáticas.

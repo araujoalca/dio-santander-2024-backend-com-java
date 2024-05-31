@@ -1,3 +1,4 @@
+package Aulas01;
 public class TestePeloTerminal {
     public static void main(String[] args) {
         System.out.println("Oi! Fui executado pelo terminal!");
